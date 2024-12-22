@@ -83,6 +83,10 @@ namespace Fungus
             {
                 currentStandaloneInputModule = EventSystem.current.GetComponent<StandaloneInputModule>();
             }
+            if (currentStandaloneInputModule == null){
+            currentStandaloneInputModule = EventSystem.current?.GetComponent<StandaloneInputModule>();
+            if (currentStandaloneInputModule == null) return; // Exit early if still null
+            }
 
             if (writer != null)
             {
