@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Aufzug_Tuere_0: -169729956035648797
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
