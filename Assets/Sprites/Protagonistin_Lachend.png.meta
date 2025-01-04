@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Protagonistin_Lachend_0: 5807494962131367014
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
