@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CogVideoX-I2V_00001_0: 5829843156629860141
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

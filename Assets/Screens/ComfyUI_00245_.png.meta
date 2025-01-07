@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ComfyUI_00245__0: -8968006087028945747
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
