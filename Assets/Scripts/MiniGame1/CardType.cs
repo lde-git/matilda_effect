@@ -1,0 +1,1 @@
+﻿public enum CardType {turquoise, pink, blue, green, yellow, red, empty}

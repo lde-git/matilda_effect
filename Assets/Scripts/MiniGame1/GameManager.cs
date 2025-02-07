@@ -9,6 +9,9 @@ public class GameManager : MonoBehaviour
     private int placedCards = 0;
 
     [SerializeField] private View archiveView; // Assign this in the Inspector
+    public Area[] areas;
+
+
 
     void Awake()
     {
@@ -16,14 +19,15 @@ public class GameManager : MonoBehaviour
         totalCards = FindObjectsOfType<Card>().Length; // Count all cards in the scene
     }
 
-    public void CardPlaced()
+    public void OnCardPlaced()
     {
-        placedCards++;
-        if (placedCards >= totalCards)
-        {
-            Debug.Log("All cards placed! Switching to 'archive_view'.");
-            FadeToArchiveView();
+
+        if (areas == null ||areas.Length == 0) return;
+
+        foreach (var area in areas) {
+            if (!area.hasCard) return;
         }
+        FadeToArchiveView();
     }
 
     private void FadeToArchiveView()
