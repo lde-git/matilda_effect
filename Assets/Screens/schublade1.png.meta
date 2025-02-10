@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 25f63afe674154aa3b34e6340a54f59e
+guid: 2c6d459b1321c4594b61e4b38f0ab446
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3836500362732761847
-    second: vecteezy_online-game-streaming-overlay-png-for-live-gamers-modern_13281143_0
+      213: 4221098307247001669
+    second: schublade1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: vecteezy_online-game-streaming-overlay-png-for-live-gamers-modern_13281143_0
+      name: schublade1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 5106
-        height: 3136
+        width: 1920
+        height: 1088
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 90d08aa2f3302cac0800000000000000
-      internalID: -3836500362732761847
+      spriteID: 540d57dcb8a549a30800000000000000
+      internalID: 4221098307247001669
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      vecteezy_online-game-streaming-overlay-png-for-live-gamers-modern_13281143_0: -3836500362732761847
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

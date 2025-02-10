@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 68d43688a92b4416190077b1c0d35751
+guid: 04862040da505469686843bc2aa62637
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5224539265023730588
-    second: Buero_2_0
+      213: 2619195719843846271
+    second: schublade2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Buero_2_0
+      name: schublade2_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 1920
-        height: 1200
+        height: 1088
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c93e1ded7ca418840800000000000000
-      internalID: 5224539265023730588
+      spriteID: f78148e41a0495420800000000000000
+      internalID: 2619195719843846271
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Buero_2_0: 5224539265023730588
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 63c6d41149ff245cc874a2c52fdeb489
+guid: 977729dad81db46fda6730d2de8083a8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2688981088894024657
-    second: Aufzug_0
+      213: 8119748957420225098
+    second: Flur oben_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Aufzug_0
+      name: Flur oben_0
       rect:
         serializedVersion: 2
-        x: 218
-        y: 171
-        width: 782
-        height: 1673
+        x: 0
+        y: 0
+        width: 1920
+        height: 1088
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f248abc42f1deaad0800000000000000
-      internalID: -2688981088894024657
+      spriteID: a42816018a42fa070800000000000000
+      internalID: 8119748957420225098
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Aufzug_0: -2688981088894024657
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

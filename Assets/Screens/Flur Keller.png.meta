@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: affc1bd2655fa4f09acbd17579937636
+guid: 6920d4d08abe94d44a8c70ae14b4a9bd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6419682260026700743
-    second: Bibliothek_0
+      213: -3465314985351169238
+    second: Flur Keller_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bibliothek_0
+      name: Flur Keller_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1952
-        height: 1363
+        width: 1920
+        height: 1088
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c3b4c7a00b471950800000000000000
-      internalID: 6419682260026700743
+      spriteID: a2b3e4f716ab8efc0800000000000000
+      internalID: -3465314985351169238
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Bibliothek_0: 6419682260026700743
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
