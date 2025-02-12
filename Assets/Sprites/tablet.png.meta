@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 58d717f61e49b4b70be7144be82afe23
+guid: 546e63b2496b14cefaf472a62d221b34
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8342968601738538382
-    second: kisspng-arrow-drawing-clip-art-arrow-down-cliparts-5aac5e3d9e36c6.3483990015212457576481_0
+      213: 6604339808490387203
+    second: tablet_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: kisspng-arrow-drawing-clip-art-arrow-down-cliparts-5aac5e3d9e36c6.3483990015212457576481_0
+      name: tablet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 600
-        height: 635
+        x: 1018
+        y: 176
+        width: 4839
+        height: 6523
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27213297242d73c80800000000000000
-      internalID: -8342968601738538382
+      spriteID: 3077a05801457ab50800000000000000
+      internalID: 6604339808490387203
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      kisspng-arrow-drawing-clip-art-arrow-down-cliparts-5aac5e3d9e36c6.3483990015212457576481_0: -8342968601738538382
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
