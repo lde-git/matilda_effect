@@ -6,48 +6,38 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance;
 
     private int totalCards;
-    private int placedCards = 0;
+    //private int placedCards = 0;
 
-    [SerializeField] private View archiveView; // Assign this in the Inspector
+    [SerializeField] private Flowchart flowchartStart; // Assign Flowchart_Start in Inspector
     public Area[] areas;
 
-
-
     void Awake()
-    {
-        Instance = this;
-        totalCards = FindObjectsOfType<Card>().Length; // Count all cards in the scene
-    }
+{
+    Instance = this;
+    totalCards = FindObjectsOfType<Card>().Length; // Count all cards in the scene
+}
 
     public void OnCardPlaced()
     {
+        if (areas == null || areas.Length == 0) return;
 
-        if (areas == null ||areas.Length == 0) return;
-
-        foreach (var area in areas) {
+        foreach (var area in areas)
+        {
             if (!area.hasCard) return;
         }
-        FadeToArchiveView();
+        // Call the "Game_success" block in the Flowchart_Start flowchart
+        CallGameSuccessBlock();
     }
 
-    private void FadeToArchiveView()
+    private void CallGameSuccessBlock()
     {
-        if (archiveView == null)
+        if (flowchartStart != null)
         {
-            Debug.LogError("Archive View is not assigned in the Inspector!");
-            return;
+            flowchartStart.ExecuteBlock("Game_success");
         }
-
-        var cameraManager = FungusManager.Instance.CameraManager;
-        if (cameraManager == null)
+        else
         {
-            Debug.LogError("CameraManager not found!");
-            return;
+            Debug.LogError("Flowchart_Start is not assigned in the Inspector!");
         }
-
-        // Use Fungus CameraManager to fade to the archive view
-        cameraManager.FadeToView(Camera.main, archiveView, 1.0f, true, null, 
-            LeanTweenType.easeInOutQuad, LeanTweenType.easeInOutQuad, 
-            LeanTweenType.easeInOutQuad, LeanTweenType.easeInOutQuad);
     }
 }
