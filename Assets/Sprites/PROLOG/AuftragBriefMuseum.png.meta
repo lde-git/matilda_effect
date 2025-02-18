@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 17dd4487394c34352be69226d998ffc5
+guid: b6971ce40e7ff4c3f875aa67c40bbaae
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8977025201123894644
-    second: Protagonistin_Ernst_0
+      213: 2613859608331075656
+    second: AuftragBriefMuseum_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Protagonistin_Ernst_0
+      name: AuftragBriefMuseum_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 44
-        width: 567
-        height: 1833
+        x: 0
+        y: 0
+        width: 4419
+        height: 6250
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 47528bcabdcc49c70800000000000000
-      internalID: 8977025201123894644
+      spriteID: 840c057077b464420800000000000000
+      internalID: 2613859608331075656
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Protagonistin_Ernst_0: 8977025201123894644
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
