@@ -179,12 +179,16 @@ public class ElevatorManager : MonoBehaviour
             Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             if (button2Collider != null && button2Collider.OverlapPoint(mousePosition))
             {
+                
                 if (elevatorUnlocked) { 
                     if (currentFloor == 1) {
                         StartCoroutine(MoveElevator(2));
                         currentFloor = 2;
                     }
                     Debug.Log("Elevator already on Floor 2");
+                } else {
+                    flowchart.SendFungusMessage("ElevatorLockedMessage");
+                    return;
                 }
             }
 
@@ -195,6 +199,9 @@ public class ElevatorManager : MonoBehaviour
                         StartCoroutine(MoveElevator(1));
                     }
                 Debug.Log("Elevator already on Floor 1");
+                } else {
+                    flowchart.SendFungusMessage("ElevatorLockedMessage");
+                    return;
                 }
             }
 
