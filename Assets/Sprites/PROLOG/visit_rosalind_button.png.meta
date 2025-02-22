@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visit_rosalind_button_0: 9177223350225269214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      london_uebergang_0: -8398046127790874422
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

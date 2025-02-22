@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ada-mit-schatten_0: -1258004331758514399
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

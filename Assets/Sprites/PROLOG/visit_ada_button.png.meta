@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      visit_ada_button_0: -6027618517368267509
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

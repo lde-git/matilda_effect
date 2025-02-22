@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flur oben_0: 8119748957420225098
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -9,7 +9,8 @@ public class Button : MonoBehaviour
     public Sprite pressedSprite; 
     public Sprite normalSprite; 
     private SpriteRenderer buttonSpriteRenderer;
-    
+    internal object onClick;
+
     void Start()
     {
         if (ColorOn == null)

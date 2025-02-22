@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tusk ID Card_0: 551426617093920284
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

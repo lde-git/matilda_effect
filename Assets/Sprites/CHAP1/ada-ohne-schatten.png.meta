@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ada-ohne-schatten_0: 4483954738289458268
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

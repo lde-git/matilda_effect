@@ -28,21 +28,33 @@ namespace Fungus
         [Tooltip("Width of the outline")]
         [SerializeField] protected float outlineWidth = 0.02f;
 
+
         private PolygonCollider2D polygonCollider;
         private LineRenderer lineRenderer;
 
+
+        public void Update() {
+
+            lineRenderer.widthMultiplier = outlineWidth;
+        }
+        
         protected virtual void Start()
         {
             polygonCollider = GetComponent<PolygonCollider2D>();
             if (polygonCollider == null)
             {
-                Debug.LogError("Outline script requires a PolygonCollider2D component.");
+                Debug.LogError("Outline script requires a PolygonCollider2D component.", this);
                 return;
             }
 
             lineRenderer = gameObject.AddComponent<LineRenderer>();
             lineRenderer.useWorldSpace = false;
-            lineRenderer.material = new Material(Shader.Find("Sprites/Default"));
+            //lineRenderer.material = new Material(Shader.Find("Sprites/Default"));
+            /*var shader = Shader.Find("Custom/BlurredLineRenderer");
+            if (shader == null) Debug.Log("Shader doesnt exist");
+            */
+            Material myMaterial = Resources.Load<Material>("outlineMaterial");
+            lineRenderer.material = myMaterial;
             lineRenderer.widthMultiplier = outlineWidth;
             lineRenderer.positionCount = polygonCollider.points.Length + 1; // +1 to close the loop
             lineRenderer.loop = true;
