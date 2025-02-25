@@ -8,61 +8,58 @@ public class Gear : MonoBehaviour
     public IGearDropArea currentArea;
     public GearArea startingArea;
 
-
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         col = GetComponent<Collider2D>();
-        this.SetCurrentArea(startingArea);
+        
+        // Store the initial position when the game starts and never change it
+        startDragPosition = transform.position;
+        
+        if (startingArea != null)
+        {
+            this.SetCurrentArea(startingArea);
+        }
     }
 
     private void SetCurrentArea(IGearDropArea gearDropArea) {
         this.currentArea = gearDropArea;
-        if (currentArea == null) {
-            return;
-        }
-        return;
     }
-
 
     private void OnMouseDown() {
         Debug.Log("MouseDown");
-        var mouseWorldPosition = GetMousePositionInWorldSpace();
-        startDragPosition = transform.position;
-        transform.position = mouseWorldPosition;
-        Debug.Log(mouseWorldPosition);
     }
-    // Update is called once per frame
-
-    private void OnValidate()
-    {
-        this.name = $"Gear_{transform.GetSiblingIndex()}_{gearType}";
-    }
-
 
     private void OnMouseDrag() {
         transform.position = GetMousePositionInWorldSpace();
+
         if (this.currentArea != null) {
             currentArea.OnGearRemoved(this);
             this.SetCurrentArea(null);
-        } 
+        }
     }
 
     private void OnMouseUp() {
         col.enabled = false;
         Collider2D hitCollider = Physics2D.OverlapPoint(transform.position);
-
         col.enabled = true;
-        if(hitCollider != null && hitCollider.TryGetComponent(out IGearDropArea gearDropArea)) {
+
+        if (hitCollider != null && hitCollider.TryGetComponent(out IGearDropArea gearDropArea)) {
             if (gearDropArea.CanDropGear(this)) { 
                 gearDropArea.OnGearDrop(this);
                 this.SetCurrentArea(gearDropArea);
-                return;
-            };
-        } 
+                return; // Gear placed correctly, so exit
+            }
+        }
 
+        // If dropped outside any GearArea, reset to its initial position
+        Debug.Log($"{this.name} was not placed in a valid area. Returning to start position.");
         transform.position = startDragPosition;
+
+        // Ensure it is removed from any previous area
+        if (currentArea != null) {
+            currentArea.OnGearRemoved(this);
+            this.SetCurrentArea(null);
+        }
     }
 
     public Vector3 GetMousePositionInWorldSpace() {
@@ -71,4 +68,9 @@ public class Gear : MonoBehaviour
         return p;
     }
 
+    public void ResetToStartPosition()
+    {
+        Debug.Log($"{this.name} is resetting to its starting position.");
+        transform.position = startDragPosition; // Move gear back to its original place
+    }
 }

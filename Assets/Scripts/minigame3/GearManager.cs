@@ -11,23 +11,38 @@ public class GearManager : MonoBehaviour
     public GearArea[] areas;
 
     void Awake()
-{
-    Instance = this;
-    totalGears = FindObjectsOfType<Gear>().Length; 
-}
+    {
+        Instance = this;
+        totalGears = FindObjectsOfType<Gear>().Length; 
+    }
 
     public void OnGearPlaced()
     {
         if (areas == null || areas.Length == 0) return;
 
+        bool allCorrect = true;
+
+        // Check every area to see if it has the correct gear
         foreach (var area in areas)
         {
-            if (!area.hasCorrectGear) return;
+            if (!area.hasCorrectGear) {
+                allCorrect = false;
+                break;
+            }
         }
-        Debug.Log("All correct gears placed! Executing 'Gear_solved'.");
-        // Call the "Game_success" block in the Flowchart_Start flowchart
-        CallGameSuccessBlock();
+
+        // Only call the success block if all gears are correct
+        if (allCorrect)
+        {
+            Debug.Log("All correct gears placed! Executing 'Gear_solved'.");
+            CallGameSuccessBlock();
+        }
+        else
+        {
+            Debug.Log("Not all gears are placed correctly yet.");
+        }
     }
+
 
     private void CallGameSuccessBlock()
     {
