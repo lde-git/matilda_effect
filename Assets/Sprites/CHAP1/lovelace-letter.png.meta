@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lovelace-letter_0: 4187780096544923728
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

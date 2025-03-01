@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: f049d141eacf54b09832ee378da6ca2c
+guid: 0687dc17c6a4feb47ba01b07b8016499
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8813687581837265151
-    second: vecteezy_man_1196500_0
+      213: -7285321912554344259
+    second: claude_0
+  - first:
+      213: 925737810987358155
+    second: claude_1
+  - first:
+      213: -530200737614061659
+    second: claude_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: vecteezy_man_1196500_0
+      name: claude_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 14
-        width: 856
-        height: 2921
+        x: 497
+        y: 52
+        width: 560
+        height: 810
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 107715b57dd7fa580800000000000000
-      internalID: -8813687581837265151
+      spriteID: db034dfd15655ea90800000000000000
+      internalID: -7285321912554344259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claude_1
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 36
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc79c0362a1e8dc00800000000000000
+      internalID: 925737810987358155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claude_2
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 4
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af1ddefc3954a8f0800000000000000
+      internalID: -530200737614061659
       vertices: []
       indices: 
       edges: []
@@ -134,8 +184,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      vecteezy_man_1196500_0: -8813687581837265151
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
