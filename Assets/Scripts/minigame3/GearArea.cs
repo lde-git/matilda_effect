@@ -30,7 +30,7 @@ public class GearArea : MonoBehaviour, IGearDropArea
         this.hasCorrectGear = true;
         Debug.Log($"Correct gear ({gear.name}) inserted.");
         GearManager.Instance.OnGearPlaced(); // Call GearManager to check if all gears are correctly placed
-        }
+    }
 
 
     public bool CanDropGear(Gear gear) {
