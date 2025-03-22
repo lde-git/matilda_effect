@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 338f6bbd4633544e9b9f8648e8a7d406
+guid: d40805c6ec3a440ddb3c59330ab0c749
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6517913656542764683
-    second: DALL_E_2025-03-09_22.22.44_-_A_vintage_name_tag_with_a_worn-out_metallic_frame_and_an_aged_paper_insert._The_name_tag_flickers_between_three_names___R._Franklin____J._D._Watson___-Photoroom-removebg-p_0
+      213: -2216373946017887095
+    second: "DALL\xB7E-2025-03-09-22.27_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DALL_E_2025-03-09_22.22.44_-_A_vintage_name_tag_with_a_worn-out_metallic_frame_and_an_aged_paper_insert._The_name_tag_flickers_between_three_names___R._Franklin____J._D._Watson___-Photoroom-removebg-p_0
+      name: "DALL\xB7E-2025-03-09-22.27_0"
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 500
-        height: 500
+        width: 1792
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 571e9111018bb85a0800000000000000
-      internalID: -6517913656542764683
+      spriteID: 98c4c2293abdd31e0800000000000000
+      internalID: -2216373946017887095
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "DALL\xB7E-2025-03-09-22.27_0": -2216373946017887095
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
