@@ -3,7 +3,7 @@
 ---
 
 ## Game Overview
-**Description:** An adventure with the protagonist Hera, which has developped the first AI Machine that lets humans visit historic events called 'VRHR'. She is supposed to present her machine to a scientific audience tomorrow and wants to test whether her chosen narratives of historically important women in science works but slowly notices that things are not as they are supposed to be... 
+**Description:** An adventure featuring the protagonist Hera who has developed the first AI Machine that lets humans visit historic events called 'VRHR'. She is supposed to present her machine to a scientific audience tomorrow and wants to test whether her chosen narratives of historically important women in science works but slowly notices that things are not as they are supposed to be... 
 
 **Genre:** Point-and-Click Adventure
 
@@ -58,7 +58,6 @@
 - All backgrounds and some of the assets were generated with [Flux diffusion models](https://huggingface.co/docs/diffusers/main/api/pipelines/flux)
 - Some assets were created manually using [Gimp](https://www.gimp.org) and [Microsoft Word](https://www.microsoft.com/de-de/microsoft-365/word?market=de)
 - A small amount of assets were downloaded from [Vecteezy](https://de.vecteezy.com) under 'Free License'
-
 
 **Music used for creation of our Sound Design:**
 
