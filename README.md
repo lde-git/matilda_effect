@@ -17,7 +17,7 @@
 - **Jonathan Voß ([TheJonny272](https://github.com/TheJonny272))** - Generation of Backgrounds & Assets; Sound Design 
 - **Sandy Rodrigues** - Story Coordination; Storywriting; Asset Creation
 - **Stephan Jäger ([EstebanCazador](https://github.com/EstebanCazador))** - Storywriting; Asset Creation
-- **Katrin Wilken** - Storywriting; Asset Creation
+- **Norma Katrin Wilcken** - Storywriting; Asset Creation
 - **Aleksandr Koloskov** - Storywriting; Asset Creation
 - **Xiao Yang** - Storywriting; Asset Creation
 
