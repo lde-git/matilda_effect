@@ -12,10 +12,10 @@
 ---
 
 ## Development Team
-- **Lea Krumbach ([leakassandra](https://github.com/leakassandra))** - Coordinator; Asset Creation; Game Development 
+- **Lea Krumbach ([leakassandra](https://github.com/leakassandra))** - Coordination; Asset Creation; Game Development 
 - **Lukas Daude ([lde-git](https://github.com/lde-git))** - Generation of Backgrounds & Assets; Game Development
 - **Jonathan Voß ([TheJonny272](https://github.com/TheJonny272))** - Generation of Backgrounds & Assets; Sound Design 
-- **Sandy Rodrigues** - Storywriting; Asset Creation
+- **Sandy Rodrigues** - Story Coordination; Storywriting; Asset Creation
 - **Stephan Jäger ([EstebanCazador](https://github.com/EstebanCazador))** - Storywriting; Asset Creation
 - **Katrin Wilken** - Storywriting; Asset Creation
 - **Aleksandr Koloskov** - Storywriting; Asset Creation
