@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      instability ohne hintergrund_0: -4697138770728587619
+      instability ohne hintergrund_1: 8271309823648302987
+      instability ohne hintergrund_10: -3223561306781824450
+      instability ohne hintergrund_11: 2455922148159649892
+      instability ohne hintergrund_12: -1942112899348930243
+      instability ohne hintergrund_13: -7109222848370178453
+      instability ohne hintergrund_14: -4318880062274780108
+      instability ohne hintergrund_15: 243353245400773407
+      instability ohne hintergrund_2: 1012638291704658760
+      instability ohne hintergrund_3: -7609032202023682000
+      instability ohne hintergrund_4: 179566322000378542
+      instability ohne hintergrund_5: -7568300208550849177
+      instability ohne hintergrund_6: 3232686203835984228
+      instability ohne hintergrund_7: 828871197826969261
+      instability ohne hintergrund_8: -7210216735993719850
+      instability ohne hintergrund_9: 2584707959298307180
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

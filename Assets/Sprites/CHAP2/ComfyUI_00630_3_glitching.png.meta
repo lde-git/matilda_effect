@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ComfyUI_00630_3_glitching_0: 1038211640086627540
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

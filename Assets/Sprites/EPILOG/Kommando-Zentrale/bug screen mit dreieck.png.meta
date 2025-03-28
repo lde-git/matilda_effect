@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bug screen mit dreieck_0: -4313811382371765779
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

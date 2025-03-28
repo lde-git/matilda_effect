@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      award-letter-to-hahn_0: 6026455447258835435
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

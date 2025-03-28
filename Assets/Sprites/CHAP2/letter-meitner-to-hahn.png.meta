@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      letter-meitner-to-hahn_0: 5726939481283117374
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

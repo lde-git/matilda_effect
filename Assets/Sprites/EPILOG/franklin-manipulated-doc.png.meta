@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      franklin-manipulated-doc_0: -334593692799692337
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

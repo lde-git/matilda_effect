@@ -25,6 +25,9 @@ public class ElevatorManager : MonoBehaviour
     private bool ascending = true;
     private bool elevatorUnlocked = false;
 
+    public AudioSource buttonClickSoundSource;
+    public AudioClip buttonClickSound;
+    public AudioClip elevatorRumble;
 
     public float travelTime = 2f;
     public float shakeAmount = 0.1f;
@@ -71,6 +74,10 @@ public class ElevatorManager : MonoBehaviour
     {
         if (enteredNumbers.Count < 4)
         {
+            if (buttonClickSound != null)
+            {
+                AudioSource.PlayClipAtPoint(buttonClickSound, transform.position); // Corrected line
+            }
             enteredNumbers.Add(number);
             Debug.Log("Added number: " + number);
 
@@ -190,6 +197,12 @@ public class ElevatorManager : MonoBehaviour
                     flowchart.SendFungusMessage("ElevatorLockedMessage");
                     return;
                 }
+                if (buttonClickSound != null)
+                {
+                    AudioSource.PlayClipAtPoint(elevatorRumble, transform.position);
+                    AudioSource.PlayClipAtPoint(buttonClickSound, transform.position);
+                    
+                }
             }
 
             if (button1Collider != null && button1Collider.OverlapPoint(mousePosition))
@@ -202,6 +215,11 @@ public class ElevatorManager : MonoBehaviour
                 } else {
                     flowchart.SendFungusMessage("ElevatorLockedMessage");
                     return;
+                }
+                if (buttonClickSound != null)
+                {
+                    AudioSource.PlayClipAtPoint(elevatorRumble, transform.position);
+                    AudioSource.PlayClipAtPoint(buttonClickSound, transform.position); 
                 }
             }
 

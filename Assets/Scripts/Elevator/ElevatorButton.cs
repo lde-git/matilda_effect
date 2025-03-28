@@ -6,8 +6,9 @@ public class ElevatorButton : MonoBehaviour
     public int number;
     public ElevatorManager elevatorManager;
     private PolygonCollider2D polygonCollider;
+    
 
-   
+
 
     void Start()
     {
@@ -26,6 +27,7 @@ public class ElevatorButton : MonoBehaviour
             if (polygonCollider != null && polygonCollider.OverlapPoint(mousePosition))
             {
                 elevatorManager.AddNumber(number);  // Directly call AddNumber
+
             }
         }
     }

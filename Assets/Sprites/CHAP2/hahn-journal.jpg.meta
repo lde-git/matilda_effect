@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hahn-journal_0: 2372680945595920992
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tablet BUTTON nur schrift visit 1939 weiss_0: 2285218000172212674
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

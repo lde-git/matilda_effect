@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: 52ef3247e55a43d45b09c47e67b36bb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3179251936901584964
+    second: schrift 1 ohne hintergrund 1_0
+  - first:
+      213: -8786701745791739394
+    second: schrift 1 ohne hintergrund 1_1
+  - first:
+      213: 4596907386604107675
+    second: schrift 1 ohne hintergrund 1_2
+  - first:
+      213: -6389375911074552049
+    second: schrift 1 ohne hintergrund 1_3
+  - first:
+      213: -8612154036740726045
+    second: schrift 1 ohne hintergrund 1_4
+  - first:
+      213: 6563482709127743168
+    second: schrift 1 ohne hintergrund 1_5
+  - first:
+      213: 8370027634619063580
+    second: schrift 1 ohne hintergrund 1_6
+  - first:
+      213: -1333852190828307238
+    second: schrift 1 ohne hintergrund 1_7
+  - first:
+      213: 8300645091350963670
+    second: schrift 1 ohne hintergrund 1_8
+  - first:
+      213: 3758397392622457886
+    second: schrift 1 ohne hintergrund 1_9
+  - first:
+      213: -2384872618548371220
+    second: schrift 1 ohne hintergrund 1_10
+  - first:
+      213: -5632183357094220551
+    second: schrift 1 ohne hintergrund 1_11
+  - first:
+      213: -4739691811194081669
+    second: schrift 1 ohne hintergrund 1_12
+  - first:
+      213: -2645945811410458399
+    second: schrift 1 ohne hintergrund 1_13
+  - first:
+      213: 3088754962636418438
+    second: schrift 1 ohne hintergrund 1_14
+  - first:
+      213: -7619297640700858516
+    second: schrift 1 ohne hintergrund 1_15
+  - first:
+      213: 192341438836385718
+    second: schrift 1 ohne hintergrund 1_16
+  - first:
+      213: 2385770886470609522
+    second: schrift 1 ohne hintergrund 1_17
+  - first:
+      213: 7531741243602235851
+    second: schrift 1 ohne hintergrund 1_18
+  - first:
+      213: 4290537792792520364
+    second: schrift 1 ohne hintergrund 1_19
+  - first:
+      213: 432790226693254812
+    second: schrift 1 ohne hintergrund 1_20
+  - first:
+      213: -7455108871195057733
+    second: schrift 1 ohne hintergrund 1_21
+  - first:
+      213: -8162623258586640966
+    second: schrift 1 ohne hintergrund 1_22
+  - first:
+      213: -2485229044097200062
+    second: schrift 1 ohne hintergrund 1_23
+  - first:
+      213: -2062870928816122421
+    second: schrift 1 ohne hintergrund 1_24
+  - first:
+      213: -6936234242186508650
+    second: schrift 1 ohne hintergrund 1_25
+  - first:
+      213: 8125812883042314027
+    second: schrift 1 ohne hintergrund 1_26
+  - first:
+      213: -7191401863499984686
+    second: schrift 1 ohne hintergrund 1_27
+  - first:
+      213: 2596502896797929572
+    second: schrift 1 ohne hintergrund 1_28
+  - first:
+      213: -7441890686661437714
+    second: schrift 1 ohne hintergrund 1_29
+  - first:
+      213: -8532253137876708225
+    second: schrift 1 ohne hintergrund 1_30
+  - first:
+      213: -8404812212383419220
+    second: schrift 1 ohne hintergrund 1_31
+  - first:
+      213: -5204368041519287734
+    second: schrift 1 ohne hintergrund 1_32
+  - first:
+      213: 9072859662870110307
+    second: schrift 1 ohne hintergrund 1_33
+  - first:
+      213: 2501894069355254827
+    second: schrift 1 ohne hintergrund 1_34
+  - first:
+      213: -5758033484790702045
+    second: schrift 1 ohne hintergrund 1_35
+  - first:
+      213: 2941207488671090593
+    second: schrift 1 ohne hintergrund 1_36
+  - first:
+      213: -7372442168082756772
+    second: schrift 1 ohne hintergrund 1_37
+  - first:
+      213: -8065484499113540011
+    second: schrift 1 ohne hintergrund 1_38
+  - first:
+      213: 8801502449665271342
+    second: schrift 1 ohne hintergrund 1_39
+  - first:
+      213: -7738107515387806447
+    second: schrift 1 ohne hintergrund 1_40
+  - first:
+      213: 6727813309161229567
+    second: schrift 1 ohne hintergrund 1_41
+  - first:
+      213: 5970407877882161473
+    second: schrift 1 ohne hintergrund 1_42
+  - first:
+      213: 6284669702358564877
+    second: schrift 1 ohne hintergrund 1_43
+  - first:
+      213: 6295600668305342052
+    second: schrift 1 ohne hintergrund 1_44
+  - first:
+      213: 1792141863777941369
+    second: schrift 1 ohne hintergrund 1_45
+  - first:
+      213: 524754072866181545
+    second: schrift 1 ohne hintergrund 1_46
+  - first:
+      213: 7140591129422219369
+    second: schrift 1 ohne hintergrund 1_47
+  - first:
+      213: 8604101620227633123
+    second: schrift 1 ohne hintergrund 1_48
+  - first:
+      213: 3735726470118349413
+    second: schrift 1 ohne hintergrund 1_49
+  - first:
+      213: -4454471292443251750
+    second: schrift 1 ohne hintergrund 1_50
+  - first:
+      213: -6565006326707614768
+    second: schrift 1 ohne hintergrund 1_51
+  - first:
+      213: -2226191083011539808
+    second: schrift 1 ohne hintergrund 1_52
+  - first:
+      213: -7908120092126275156
+    second: schrift 1 ohne hintergrund 1_53
+  - first:
+      213: 2778621827518208093
+    second: schrift 1 ohne hintergrund 1_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_0
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 440
+        width: 337
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448dd7ecac8fe1c20800000000000000
+      internalID: 3179251936901584964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 207
+        width: 8
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef957cee05d5f0680800000000000000
+      internalID: -8786701745791739394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 206
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9738e3a9ee7bcf30800000000000000
+      internalID: 4596907386604107675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_3
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 206
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07a6f316706457a0800000000000000
+      internalID: -6389375911074552049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_4
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 242
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e26f11688b7b7880800000000000000
+      internalID: -8612154036740726045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_5
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 206
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c64af6cfbc261b50800000000000000
+      internalID: 6563482709127743168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_6
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 242
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d1ca199cf482470800000000000000
+      internalID: 8370027634619063580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_7
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 206
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc5dcedf743d7de0800000000000000
+      internalID: -1333852190828307238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_8
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 206
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5609c5bb0d13370800000000000000
+      internalID: 8300645091350963670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_9
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 206
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1414080482882430800000000000000
+      internalID: 3758397392622457886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_10
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 206
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce06ed03dfa37eed0800000000000000
+      internalID: -2384872618548371220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_11
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 206
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc288ac31776d1b0800000000000000
+      internalID: -5632183357094220551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_12
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 207
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ee2f0e86b393eb0800000000000000
+      internalID: -4739691811194081669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_13
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 206
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e862f7ad46b74bd0800000000000000
+      internalID: -2645945811410458399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_14
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 206
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d2b2a06467dda20800000000000000
+      internalID: 3088754962636418438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_15
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 207
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fad002a21d24690800000000000000
+      internalID: -7619297640700858516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_16
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 207
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b72e6105855ba200800000000000000
+      internalID: 192341438836385718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_17
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 194
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aac8b1bf5fb1120800000000000000
+      internalID: 2385770886470609522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_18
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 206
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1f11591ce168860800000000000000
+      internalID: 7531741243602235851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_19
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 206
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca669cae36d0b8b30800000000000000
+      internalID: 4290537792792520364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_20
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 206
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eef4c0b64910600800000000000000
+      internalID: 432790226693254812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_21
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 206
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb12e820bf12a8890800000000000000
+      internalID: -7455108871195057733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_22
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 207
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd0a9cc46988be80800000000000000
+      internalID: -8162623258586640966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_23
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 130
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2405a190a51b28dd0800000000000000
+      internalID: -2485229044097200062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 163
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc55f6ed1d53f53e0800000000000000
+      internalID: -2062870928816122421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 130
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696829bd4bb8dbf90800000000000000
+      internalID: -6936234242186508650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_26
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 130
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27a705c3cfa4c070800000000000000
+      internalID: 8125812883042314027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_27
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 163
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d050095b12033c90800000000000000
+      internalID: -7191401863499984686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_28
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 129
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460d9e5b0a1a80420800000000000000
+      internalID: 2596502896797929572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_29
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 163
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6d14c69d719b890800000000000000
+      internalID: -7441890686661437714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_30
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 129
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7495271af8579980800000000000000
+      internalID: -8532253137876708225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_31
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 130
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4750dc2db1c5b80800000000000000
+      internalID: -8404812212383419220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_32
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 163
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42f8d417de56c7b0800000000000000
+      internalID: -5204368041519287734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_33
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 130
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360e7561bc549ed70800000000000000
+      internalID: 9072859662870110307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_34
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 142
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b249395866388b220800000000000000
+      internalID: 2501894069355254827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 130
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320ee3e8d0b5710b0800000000000000
+      internalID: -5758033484790702045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_36
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 129
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a785f4b0a441d820800000000000000
+      internalID: 2941207488671090593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_37
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 129
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b0154b8e2dfa990800000000000000
+      internalID: -7372442168082756772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_38
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 130
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5560be0b494a11090800000000000000
+      internalID: -8065484499113540011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_39
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 129
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26670a78d7352a70800000000000000
+      internalID: 8801502449665271342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_40
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 129
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d77878638bc9490800000000000000
+      internalID: -7738107515387806447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_41
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 118
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc43b72f8efd5d50800000000000000
+      internalID: 6727813309161229567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_42
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 130
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1492c5515562bd250800000000000000
+      internalID: 5970407877882161473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_43
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 130
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d000eb3fbc1a73750800000000000000
+      internalID: 6284669702358564877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_44
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 130
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e3d0ac3777e5750800000000000000
+      internalID: 6295600668305342052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_45
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 130
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9773799a787fed810800000000000000
+      internalID: 1792141863777941369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_46
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 129
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1d0ab8c0d484700800000000000000
+      internalID: 524754072866181545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_47
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 129
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968448bbcc9781360800000000000000
+      internalID: 7140591129422219369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_48
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 130
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efe70d46d8e76770800000000000000
+      internalID: 8604101620227633123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_49
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 129
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a9d6d8e67f7d330800000000000000
+      internalID: 3735726470118349413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_50
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 118
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbaeb7d5f98e22c0800000000000000
+      internalID: -4454471292443251750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_51
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 129
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db866c578964e4a0800000000000000
+      internalID: -6565006326707614768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_52
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 130
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac74fe310bfa11e0800000000000000
+      internalID: -2226191083011539808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_53
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 118
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca91fabdca6b04290800000000000000
+      internalID: -7908120092126275156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schrift 1 ohne hintergrund 1_54
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 130
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d589e5294d5af8620800000000000000
+      internalID: 2778621827518208093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      schrift 1 ohne hintergrund 1_0: 3179251936901584964
+      schrift 1 ohne hintergrund 1_1: -8786701745791739394
+      schrift 1 ohne hintergrund 1_10: -2384872618548371220
+      schrift 1 ohne hintergrund 1_11: -5632183357094220551
+      schrift 1 ohne hintergrund 1_12: -4739691811194081669
+      schrift 1 ohne hintergrund 1_13: -2645945811410458399
+      schrift 1 ohne hintergrund 1_14: 3088754962636418438
+      schrift 1 ohne hintergrund 1_15: -7619297640700858516
+      schrift 1 ohne hintergrund 1_16: 192341438836385718
+      schrift 1 ohne hintergrund 1_17: 2385770886470609522
+      schrift 1 ohne hintergrund 1_18: 7531741243602235851
+      schrift 1 ohne hintergrund 1_19: 4290537792792520364
+      schrift 1 ohne hintergrund 1_2: 4596907386604107675
+      schrift 1 ohne hintergrund 1_20: 432790226693254812
+      schrift 1 ohne hintergrund 1_21: -7455108871195057733
+      schrift 1 ohne hintergrund 1_22: -8162623258586640966
+      schrift 1 ohne hintergrund 1_23: -2485229044097200062
+      schrift 1 ohne hintergrund 1_24: -2062870928816122421
+      schrift 1 ohne hintergrund 1_25: -6936234242186508650
+      schrift 1 ohne hintergrund 1_26: 8125812883042314027
+      schrift 1 ohne hintergrund 1_27: -7191401863499984686
+      schrift 1 ohne hintergrund 1_28: 2596502896797929572
+      schrift 1 ohne hintergrund 1_29: -7441890686661437714
+      schrift 1 ohne hintergrund 1_3: -6389375911074552049
+      schrift 1 ohne hintergrund 1_30: -8532253137876708225
+      schrift 1 ohne hintergrund 1_31: -8404812212383419220
+      schrift 1 ohne hintergrund 1_32: -5204368041519287734
+      schrift 1 ohne hintergrund 1_33: 9072859662870110307
+      schrift 1 ohne hintergrund 1_34: 2501894069355254827
+      schrift 1 ohne hintergrund 1_35: -5758033484790702045
+      schrift 1 ohne hintergrund 1_36: 2941207488671090593
+      schrift 1 ohne hintergrund 1_37: -7372442168082756772
+      schrift 1 ohne hintergrund 1_38: -8065484499113540011
+      schrift 1 ohne hintergrund 1_39: 8801502449665271342
+      schrift 1 ohne hintergrund 1_4: -8612154036740726045
+      schrift 1 ohne hintergrund 1_40: -7738107515387806447
+      schrift 1 ohne hintergrund 1_41: 6727813309161229567
+      schrift 1 ohne hintergrund 1_42: 5970407877882161473
+      schrift 1 ohne hintergrund 1_43: 6284669702358564877
+      schrift 1 ohne hintergrund 1_44: 6295600668305342052
+      schrift 1 ohne hintergrund 1_45: 1792141863777941369
+      schrift 1 ohne hintergrund 1_46: 524754072866181545
+      schrift 1 ohne hintergrund 1_47: 7140591129422219369
+      schrift 1 ohne hintergrund 1_48: 8604101620227633123
+      schrift 1 ohne hintergrund 1_49: 3735726470118349413
+      schrift 1 ohne hintergrund 1_5: 6563482709127743168
+      schrift 1 ohne hintergrund 1_50: -4454471292443251750
+      schrift 1 ohne hintergrund 1_51: -6565006326707614768
+      schrift 1 ohne hintergrund 1_52: -2226191083011539808
+      schrift 1 ohne hintergrund 1_53: -7908120092126275156
+      schrift 1 ohne hintergrund 1_54: 2778621827518208093
+      schrift 1 ohne hintergrund 1_6: 8370027634619063580
+      schrift 1 ohne hintergrund 1_7: -1333852190828307238
+      schrift 1 ohne hintergrund 1_8: 8300645091350963670
+      schrift 1 ohne hintergrund 1_9: 3758397392622457886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

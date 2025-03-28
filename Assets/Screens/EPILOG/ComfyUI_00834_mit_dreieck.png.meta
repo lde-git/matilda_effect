@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ComfyUI_00834_mit_dreieck_0: 4405334889398886558
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tusk-financial-records_0: -2485107556762437851
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

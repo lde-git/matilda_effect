@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hahn links_0: 485821440467362101
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

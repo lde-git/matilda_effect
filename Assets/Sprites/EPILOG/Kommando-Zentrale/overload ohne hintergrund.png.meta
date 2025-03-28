@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      overload ohne hintergrund_0: -8153508055496867224
+      overload ohne hintergrund_1: 3799451875805584122
+      overload ohne hintergrund_10: -2244630642211419229
+      overload ohne hintergrund_2: -4982828976240895600
+      overload ohne hintergrund_3: -4245115481736411819
+      overload ohne hintergrund_4: -3543332521737957902
+      overload ohne hintergrund_5: 2363640173462428511
+      overload ohne hintergrund_6: -8891945900102958843
+      overload ohne hintergrund_7: 7947268535240560674
+      overload ohne hintergrund_8: 6453431744830120236
+      overload ohne hintergrund_9: -8874900912795155163
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

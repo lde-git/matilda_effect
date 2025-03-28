@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Photo_51_x-ray_diffraction_image_0: 4329157808259475207
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

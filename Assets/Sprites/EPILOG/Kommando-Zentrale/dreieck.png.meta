@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dreieck_0: -1338829779011328769
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

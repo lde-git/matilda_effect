@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      data error ohne hintergrund_0: -6239990394672865762
+      data error ohne hintergrund_1: -6378276309524163189
+      data error ohne hintergrund_10: 2345277945817761457
+      data error ohne hintergrund_11: -3831677793858718788
+      data error ohne hintergrund_2: -6185920782149926107
+      data error ohne hintergrund_3: -6303232601417042321
+      data error ohne hintergrund_4: -3871507463588170264
+      data error ohne hintergrund_5: -5384020727507809966
+      data error ohne hintergrund_6: -8624563620152882598
+      data error ohne hintergrund_7: -517916081333857172
+      data error ohne hintergrund_8: 6890165255407389927
+      data error ohne hintergrund_9: -8651462656581047660
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
